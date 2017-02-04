@@ -41,7 +41,7 @@ func router() {
 }
 
 func main() {
-	fmt.Println("Server begin ")
+	fmt.Println("Server begin")
 
 	port := os.Getenv("PORT")
 
