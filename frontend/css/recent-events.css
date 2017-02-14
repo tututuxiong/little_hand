@@ -1,0 +1,12 @@
+/* CUSTOMIZE THE Jumbotron
+-------------------------------------------------- */
+.jumbotron {
+  padding: 0px;
+}
+.jumbotron > img {
+  width: 100%;
+  height: 200px;
+}
+div > ul {
+  display: inline;
+}
