@@ -10,3 +10,17 @@ body {
 .navbar {
   margin-bottom: 0px;
 }
+.article > p {
+  margin-bottom: 20px;
+}
+.article > h3 {
+  text-align: center;
+  font-weight: bold;
+}
+.article > h4 {
+  color: cornflowerblue;
+  font-weight: bold;
+}
+.article > h5 {
+  font-weight: bold;
+}
