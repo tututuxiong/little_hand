@@ -38,13 +38,10 @@ http://goldenbridgeeducation.com/index.php/zh/
 底部链接：
 
 澳大利亚签证：http://www.border.gov.au/Trav/Visa-1
-http://www.studymelbourne.vic.gov.au/
-
-
-
-http://new.aemg.com.au/about/aemg-australia/
+学在墨尔本:http://www.studymelbourne.vic.gov.au/
+澳大利亚驻华大使：http://china.embassy.gov.au/bjngchinese/home.html
+中国教育部涉外教育（澳大利亚） http://www.jsj.edu.cn/n1/12031.shtml
 
 PARTNER LINKS
-•	Australian Embassy, China
-•	Australian Government Department of Immigration and Citizenship
-
+•	Australian Embassy, China ：http://china.embassy.gov.au/bjng/home.html
+•	Australian Government Department of Immigration and Citizenship：https://www.border.gov.au/
