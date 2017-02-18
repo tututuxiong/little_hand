@@ -3,7 +3,6 @@
 /* Padding below the footer and lighter body text */
 body {
   font-family: "Helvetica Neue", Helvetica, "Hiragino San GB", "Microsoft YaHei", Arial, sans-serif;
-  padding-bottom: 40px;
   color: #5a5a5a;
 }
 /* CUSTOMIZE THE NAVBAR
@@ -35,4 +34,28 @@ body {
 }
 .table > thead > tr > th {
   text-align: center;
+}
+/* CUSTOMIZE THE FOOTER
+-------------------------------------------------- */
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 100px;
+  background-color: #2a2730;
+  color: #99979c;
+}
+footer > div > ul {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  padding-left: 0px;
+}
+footer > div > ul > li {
+  display: inline-block;
+  margin-right: 10px;
+}
+footer > div > ul > li > a {
+  color: white;
+}
+footer > div > ul > li > a:hover {
+  color: white;
 }
