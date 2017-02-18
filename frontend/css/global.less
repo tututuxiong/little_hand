@@ -1,34 +1,58 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
+
+
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
-  color: #5a5a5a;
+    font-family: "Helvetica Neue", Helvetica, "Hiragino San GB", "Microsoft YaHei", Arial, sans-serif;
+    padding-bottom: 40px;
+    color: #5a5a5a;
 }
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
+
 .navbar {
     margin-bottom: 0px;
 }
 
+
+/* CUSTOMIZE THE ARTICLE
+-------------------------------------------------- */
+
 .article {
     > p {
         margin-bottom: 20px;
+        font-size: 16px;
     }
-    
     > h3 {
         text-align: center;
         font-weight: bold;
     }
-    
     > h4 {
         color: cornflowerblue;
         font-weight: bold;
     }
-    
     > h5 {
         font-weight: bold;
+    }
+}
+
+
+/* CUSTOMIZE THE TABLE
+-------------------------------------------------- */
+
+.table {
+    > caption {
+        font-weight: bold;
+    }
+    > thead {
+        > tr {
+            > th {
+                text-align: center;
+            }
+        }
     }
 }

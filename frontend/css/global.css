@@ -2,6 +2,7 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 body {
+  font-family: "Helvetica Neue", Helvetica, "Hiragino San GB", "Microsoft YaHei", Arial, sans-serif;
   padding-bottom: 40px;
   color: #5a5a5a;
 }
@@ -10,8 +11,11 @@ body {
 .navbar {
   margin-bottom: 0px;
 }
+/* CUSTOMIZE THE ARTICLE
+-------------------------------------------------- */
 .article > p {
   margin-bottom: 20px;
+  font-size: 16px;
 }
 .article > h3 {
   text-align: center;
@@ -23,4 +27,12 @@ body {
 }
 .article > h5 {
   font-weight: bold;
+}
+/* CUSTOMIZE THE TABLE
+-------------------------------------------------- */
+.table > caption {
+  font-weight: bold;
+}
+.table > thead > tr > th {
+  text-align: center;
 }
