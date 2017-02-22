@@ -30,6 +30,12 @@ body {
 .article > h5 {
   font-weight: bold;
 }
+.article > .row {
+  margin-bottom: 20px;
+}
+.article img {
+  width: 100%;
+}
 /* CUSTOMIZE THE TABLE
 -------------------------------------------------- */
 .table > caption {
