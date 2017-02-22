@@ -11,6 +11,15 @@ body {
 .navbar {
   margin-bottom: 0px;
 }
+/* CUSTOMIZE THE JUMBOTRON
+-------------------------------------------------- */
+.jumbotron > .container-fluid {
+  padding: 0px;
+}
+.jumbotron > .container-fluid > img {
+  width: 100%;
+  height: 280px;
+}
 /* CUSTOMIZE THE ARTICLE
 -------------------------------------------------- */
 .article > p {
