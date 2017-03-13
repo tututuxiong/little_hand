@@ -8,7 +8,7 @@ touch your world, fly your dream!
 
 1：泰晤士排名，看微信。 
 2：ATAR & Naplan 看微信
-3:   英语提升攻略。
+3:   墨尔本留学费用指南。
 
 
 中间3个圈：
