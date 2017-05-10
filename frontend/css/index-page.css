@@ -50,16 +50,25 @@
 /* MARKETING CONTENT
 -------------------------------------------------- */
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
-  margin-bottom: 20px;
-  text-align: center;
+.marketing .col-sm-4 .img-circle {
+  display: block;
+  margin: auto auto;
+  height: 200px;
+  width: 200px;
+  border: 5px solid #0d9fe6;
 }
-.marketing h2 {
+.marketing .col-sm-4 h2 {
+  text-align: center;
   font-weight: normal;
 }
-.marketing .col-lg-4 p {
-  margin-right: 10px;
-  margin-left: 10px;
+.marketing .col-sm-4 button {
+  display: block;
+  margin: 10px auto;
+  border-width: 1px;
+}
+.marketing .col-sm-4 button > a {
+  text-decoration: none;
+  color: black;
 }
 /* Featurettes
 ------------------------- */

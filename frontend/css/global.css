@@ -77,3 +77,12 @@ footer > div > ul > li > a {
 footer > div > ul > li > a:hover {
   color: white;
 }
+.nav-pills > li {
+  margin: 10px auto;
+}
+.nav-pills > li > a:hover {
+  background-color: cornflowerblue;
+}
+.nav-pills > ul > li {
+  list-style: none;
+}
