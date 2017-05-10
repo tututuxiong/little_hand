@@ -18,18 +18,20 @@ body {
     margin-bottom: 0px;
 }
 
+
 /* CUSTOMIZE THE JUMBOTRON
 -------------------------------------------------- */
+
 .jumbotron {
     > .container-fluid {
         padding: 0px;
-        
-        > img{
+        > img {
             width: 100%;
             height: 280px;
         }
     }
 }
+
 
 /* CUSTOMIZE THE ARTICLE
 -------------------------------------------------- */
@@ -52,11 +54,9 @@ body {
     > h5 {
         font-weight: bold;
     }
-    
     > .row {
         margin-bottom: 20px;
     }
-    
     img {
         width: 100%;
     }
@@ -79,17 +79,16 @@ body {
     }
 }
 
+
 /* CUSTOMIZE THE FOOTER
 -------------------------------------------------- */
 
 footer {
     padding-top: 50px;
     padding-bottom: 50px;
-
     margin-top: 50px;
     background-color: #2a2730;
     color: #99979c;
-    
     > div {
         > ul {
             margin-top: 0px;
@@ -98,15 +97,29 @@ footer {
             > li {
                 display: inline-block;
                 margin-right: 10px;
-                
                 > a {
                     color: white;
-                    
-                    &:hover{
+                    &:hover {
                         color: white;
                     }
                 }
             }
+        }
+    }
+}
+
+.nav-pills {
+    > li {
+        margin: 10px auto;
+        > a {
+            &:hover {
+                background-color: cornflowerblue;
+            }
+        }
+    }
+    > ul {
+        > li {
+            list-style: none;
         }
     }
 }
